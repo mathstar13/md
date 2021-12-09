@@ -8,10 +8,12 @@ Welcome to Test's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    
    myfile
 
+.. image:: https://readthedocs.org/projects/greatusername-md/badge/?version=latest
+   :target: https://greatusername-md.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
 
 Indices and tables
 ==================
@@ -19,5 +21,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-.. :doc:`myfile`
